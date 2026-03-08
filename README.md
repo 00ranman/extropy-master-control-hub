@@ -1,5 +1,11 @@
 # Extropy Master Control Hub
 
+> **Ecosystem Note:** This is the standalone Python orchestration hub. The deployed
+> TypeScript equivalent is the `packages/ecosystem` service (port 4014) in the
+> [extropy-engine](https://github.com/00ranman/extropy-engine) monorepo.
+> See [ECOSYSTEM_MAP.md](https://github.com/00ranman/extropy-engine/blob/main/ECOSYSTEM_MAP.md)
+> for the full repository mapping.
+
 The unified dashboard and control center for the entire Extropy ecosystem, integrating all physics-based coordination platforms through a single interface.
 
 ## 🚀 Overview
