@@ -1,3 +1,18 @@
+> [!WARNING]
+> ## Deprecated and Archived
+>
+> This centralized control hub has been superseded by the active monorepo.
+> Orchestration and aggregation now live in
+> [extropy-engine/packages/ecosystem](https://github.com/00ranman/extropy-engine/tree/main/packages/ecosystem),
+> and gateway routing in
+> [extropy-engine/packages/api-gateway](https://github.com/00ranman/extropy-engine/tree/main/packages/api-gateway).
+>
+> A single centralized command center runs against the decentralized model this
+> project is built on, so this hub is intentionally retired rather than ported.
+>
+> This repository is archived (read-only) and kept for history. Do not build on it.
+> See [ECOSYSTEM_MAP.md](https://github.com/00ranman/extropy-engine/blob/main/ECOSYSTEM_MAP.md) for the full mapping.
+
 # Extropy Master Control Hub
 
 > **Ecosystem Note:** This is the standalone Python orchestration hub. The deployed
